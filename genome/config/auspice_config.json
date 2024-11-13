@@ -57,9 +57,9 @@
       "type":"categorical"
     },
     {
-      "title": "Gender",
+      "title": "USAFSAM",
       "type": "categorical",
-      "key": "sex"
+      "key": "USAFSAM"
     }
   ],
   "geo_resolutions": [
@@ -85,7 +85,8 @@
     "age_range3",
     "symptom",
     "collab_country",
-    "date_added"
+    "date_added",
+    "USAFSAM"
   ],
   "panels": [
     "tree",
